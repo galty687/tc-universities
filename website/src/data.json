@@ -589,5 +589,17 @@
             "courseURL": "",
             "note": ""
         }
+    ],
+    "吉林": [
+        {
+            "university": "东北师范大学",
+            "school": "外国语言文化学院",
+            "course": "英语（科技交流）",
+            "lecturer": "",
+            "audience": "",
+            "startYear": "2005",
+            "courseURL": "https://www.crs.jsj.edu.cn/aproval/detail/521",
+            "note": "与 Kennesaw State University, USA（美国肯尼绍州州立大学）合办的本科"
+        }
     ]
 }
