@@ -204,7 +204,17 @@
             "startYear": "2021",
             "courseURL": "/",
             "note": "/"
-        }        
+        },
+        {
+            "university": "东华大学",
+            "school": "外国语学院",
+            "course": "技术写作",
+            "lecturer": "杨捷",
+            "audience": "MTI",
+            "startYear": "2024",
+            "courseURL": "/",
+            "note": "/"
+        }          
 
     ],
     "重庆": [
