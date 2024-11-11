@@ -79,6 +79,16 @@
             "startYear": "",
             "courseURL": "",
             "note": "因缺师资，暂时停开"
+        },
+        {
+            "university": "北京邮电大学",
+            "school": "人文学院",
+            "course": "科技读译与科技传播",
+            "lecturer": "张钫炜",
+            "audience": "研究生公共外语",
+            "startYear": "2021",
+            "courseURL": "",
+            "note": ""
         }
     ],
     "天津": [
