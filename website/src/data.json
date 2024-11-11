@@ -214,9 +214,30 @@
             "startYear": "2024",
             "courseURL": "/",
             "note": "/"
-        }          
+        },
+        {
+            "university": "华东政法大学",
+            "school": "外国学院",
+            "course": "涉外法商技术写作",
+            "lecturer": "杨焯",
+            "audience": "全校通识课",
+            "startYear": "2024",
+            "courseURL": "/",
+            "note": "/"
+        },
+        {
+            "university": "华东政法大学",
+            "school": "外国学院",
+            "course": "大国智造与技术写作",
+            "lecturer": "杨焯",
+            "audience": "全校通识课",
+            "startYear": "2024",
+            "courseURL": "/",
+            "note": "/" 
+        }              
 
-    ],
+    ]
+
     "重庆": [
         {
             "university": "重庆邮电大学",
