@@ -536,6 +536,7 @@
             "courseURL": "",
             "note": ""
         }
+        
     
     ],
     "江西": [
@@ -652,5 +653,18 @@
             "courseURL": "https://www.crs.jsj.edu.cn/aproval/detail/521",
             "note": "与 Kennesaw State University, USA（美国肯尼绍州州立大学）合办的本科"
         }
+    ],
+    "安徽": [
+        {
+            "university": "安徽理工大学",
+            "school": "外国语学院",
+            "course": "技术文本写作",
+            "lecturer": "孙继成（山东理工大学）",
+            "audience": "2021级MTI笔译研究生",
+            "startYear": "2021",
+            "courseURL": "",
+            "note": "网课授课"
+        }
     ]
+
 }
