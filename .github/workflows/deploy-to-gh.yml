@@ -38,6 +38,7 @@ jobs:
         run: |
           cd website
           npm ci && CI=false npm run build
+          cp CNAME build/
         env:
           PUBLIC_URL: /
       - name: Upload artifact
