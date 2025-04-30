@@ -112,7 +112,7 @@
             "audience": "MTI口笔译学生",
             "startYear": "2017",
             "courseURL": "",
-            "note": "2020年，陶友兰，谢敏，李晓黎，周全，程少武联合出版该课程教材《英语技术写作精要》"
+            "note": "教材《英语技术写作精要》"
         },
         {
             "university": "同济大学",
@@ -244,6 +244,16 @@
             "startYear": "2024",
             "courseURL": "/",
             "note": "/" 
+        },
+        {
+            "university": "上海师范大学",
+            "school": "外国语学院",
+            "course": "技术写作",
+            "lecturer": "程微",
+            "audience": "MTI",
+            "startYear": "2025",
+            "courseURL": "",
+            "note": ""
         }              
 
     ],
