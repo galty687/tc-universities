@@ -665,6 +665,19 @@
             "courseURL": "",
             "note": "网课授课"
         }
+    ],
+    "河南": [
+        {
+            "university": "河南工业大学",
+            "school": "外国语学院",
+            "course": "技术写作",
+            "lecturer": "",
+            "audience": "MTI、英语专业本科",
+            "startYear": "2025",
+            "courseURL": "",
+            "note": "2025年起列入英语专业本科培养方案"
+        }
     ]
+
 
 }
