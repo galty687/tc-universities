@@ -38,5 +38,6 @@
   "devDependencies": {
     "gh-pages": "^5.0.0",
     "tailwindcss": "^3.3.2"
-  }
+  },
+  "homepage": "https://list.tc-edu.org"
 }

@@ -38,10 +38,11 @@ jobs:
         run: |
           cd website
           npm ci && CI=false npm run build
+          cp CNAME build/
         env:
-          PUBLIC_URL: /
+          PUBLIC_URL: /tc-universities
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3
         with:
           path: './website/build'
 
