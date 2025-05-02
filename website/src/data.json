@@ -254,7 +254,17 @@
             "startYear": "2025",
             "courseURL": "",
             "note": ""
-        }              
+        },
+        {
+            "university": "上海中侨职业技术大学",
+            "school": "外国语学院",
+            "course": "若干专业课",
+            "lecturer": "",
+            "audience": "本科",
+            "startYear": "2024",
+            "courseURL": "",
+            "note": "应用英语：技术传播方向"
+        }                
 
     ],
 
