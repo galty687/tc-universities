@@ -89,16 +89,6 @@
             "startYear": "2021",
             "courseURL": "",
             "note": ""
-        },
-            {
-            "university": "北京信息科技大学",
-            "school": "外国语学院",
-            "course": "智能译写与技术传播系列课程",
-            "lecturer": "",
-            "audience": "",
-            "startYear": "",
-            "courseURL": "",
-            "note": "微专业"
         }
     ],
     "天津": [
@@ -228,7 +218,7 @@
         {
             "university": "东华大学",
             "school": "外国语学院",
-            "course": "技术写作与传播",
+            "course": "技术写作",
             "lecturer": "杨捷",
             "audience": "MTI",
             "startYear": "2024",
