@@ -89,6 +89,16 @@
             "startYear": "2021",
             "courseURL": "",
             "note": ""
+        },
+        {
+            "university": "北京信息科技大学",
+            "school": "外国语学院",
+            "course": "智能译写与技术传播",
+            "lecturer": "微专业",
+            "audience": "本科生",
+            "startYear": "",
+            "courseURL": "",
+            "note": "系列课程"
         }
     ],
     "天津": [
